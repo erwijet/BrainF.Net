@@ -7,7 +7,7 @@ using BrainF;
 ```
 The BrainF namespace contains three key elements: The Parser, The CommandType enum and the LineType enum. This class can be thought of as the *primary* namespace in the sense that the Parser class pulles on the CommandType and LineType enum. The enum code is as follows: 
 ```csharp
-	[Serializable]
+	[System.Serializable]
 	public enum CommandType
 	{
 		//PRIMARY
@@ -38,5 +38,30 @@ The parser **does** have the code for error detection, however the ```BrainF.Err
 
 ```csharp
 using BrainF.ErrorHandling;
+```
+
+The Error Handler would be used like this.
+```csharp
+using System;
+
+using BrainF;
+using BrainF.Interpreter;
+using BrainF.ErrorHandling;
+
+Interpreter interpreter = new Interpreter (new Hub ()); // The interpreter to output errors to
+Parser parser = new Parser (); // The parser to use for finding errors
+String[] input = new String[] {
+	"line one",
+	"line two",
+	",,>>,.,[-]"
+};
+
+ErrorHandler errorHandler = new ErrorHandler (interpreter);
+errorHandler.CheckForErrors (parser, input); // Scan for errors. Call the Interpreter.Log delegate for any errors found
+
+if (!errorHandler.ErrorsFound)
+{
+	// No Errors, run interpreter
+}	
 ```
 
