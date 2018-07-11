@@ -1,6 +1,6 @@
 | Command 	| What it does                                                                                                                	|
 |---------	|-----------------------------------------------------------------------------------------------------------------------------	|
-| <tilde> 	| Adds one empty cell to the memory array                                                                                     	|
+| ~ 	| Adds one empty cell to the memory array                                                                                     	|
 |    >    	| Moves the memory array pointer one to the right                                                                             	|
 |    <    	| Moves the memory array pointer one to the left                                                                              	|
 |    +    	| Adds one to the cell at the memory pointer                                                                                  	|
