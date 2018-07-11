@@ -12,5 +12,6 @@
 |    ]    	| If the cell's value at the memory pointer is 0, continue (break the loop). Otherwise, return to where the loop was declared 	|
 |    .    	| Print a letter to the console where the ASCII value of the letter is the value at the cell at the memory pointer            	|
 |    ,    	| Read one letter and save the ASCII value of that letter to the cell at the memory pointer                                   	|
+
 Go [here](https://en.wikipedia.org/wiki/Brainfuck) to learn more.
 Go [here](https://esolangs.org/wiki/Brainfuck) for examples and an in-depth understanding of how the language works.
