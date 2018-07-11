@@ -1,0 +1,30 @@
+﻿<Properties StartupItem="BrainF_Test\BrainF_Test.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BrainF\Main.cs">
+    <Files>
+      <File FileName="BrainF\Parser.cs" Line="41" Column="4" />
+      <File FileName="BrainF\CommandType.cs" Line="9" Column="40" />
+      <File FileName="BrainF\ErrorHandling.cs" Line="25" Column="40" />
+      <File FileName="BrainF\Execute.cs" Line="13" Column="12" />
+      <File FileName="BrainF\CommandSet.cs" Line="25" Column="3" />
+      <File FileName="BrainF_Test\Program.cs" Line="18" Column="30" />
+      <File FileName="BrainF\Main.cs" Line="96" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BrainF" expanded="True">
+            <Node name="BrainF" expanded="True">
+              <Node name="Main.cs" selected="True" />
+            </Node>
+            <Node name="BrainF_Test" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

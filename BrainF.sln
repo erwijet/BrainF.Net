@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrainF", "BrainF\BrainF.csproj", "{AC12433E-183F-42FF-9258-F39025A00BC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrainF_Test", "BrainF_Test\BrainF_Test.csproj", "{DC20E286-5028-4B88-A197-F55D6DB6DEBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC12433E-183F-42FF-9258-F39025A00BC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC12433E-183F-42FF-9258-F39025A00BC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC12433E-183F-42FF-9258-F39025A00BC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC12433E-183F-42FF-9258-F39025A00BC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC20E286-5028-4B88-A197-F55D6DB6DEBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC20E286-5028-4B88-A197-F55D6DB6DEBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC20E286-5028-4B88-A197-F55D6DB6DEBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC20E286-5028-4B88-A197-F55D6DB6DEBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

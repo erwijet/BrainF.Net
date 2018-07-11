@@ -1,0 +1,7 @@
+C:\Users\Tyler\Documents\Projects\BrainF\BrainF_Test\bin\Debug\BrainF_Test.exe
+C:\Users\Tyler\Documents\Projects\BrainF\BrainF_Test\bin\Debug\BrainF_Test.pdb
+C:\Users\Tyler\Documents\Projects\BrainF\BrainF_Test\bin\Debug\BrainF.dll
+C:\Users\Tyler\Documents\Projects\BrainF\BrainF_Test\bin\Debug\BrainF.pdb
+C:\Users\Tyler\Documents\Projects\BrainF\BrainF_Test\obj\Debug\BrainF_Test.csprojResolveAssemblyReference.cache
+C:\Users\Tyler\Documents\Projects\BrainF\BrainF_Test\obj\Debug\BrainF_Test.exe
+C:\Users\Tyler\Documents\Projects\BrainF\BrainF_Test\obj\Debug\BrainF_Test.pdb
