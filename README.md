@@ -1,3 +1,6 @@
+# BrainF is a C# library for the BrainF--k
+## Except that a special Command, the tilde, was added as a valid command.
+
 | Command 	| What it does                                                                                                                	|
 |---------	|-----------------------------------------------------------------------------------------------------------------------------	|
 | ~ 	| Adds one empty cell to the memory array                                                                                     	|
