@@ -1,6 +1,3 @@
-BrainF is a c# interpreter library for the BrainF--k language, however it includes a command which is unsupported in standered BrainF--k.
-This command is the tilde.
-I would leave a link to the full documentation, but its so simple I will include it here.
 | Command 	| What it does                                                                                                                	|
 |---------	|-----------------------------------------------------------------------------------------------------------------------------	|
 | <tilde> 	| Adds one empty cell to the memory array                                                                                     	|
