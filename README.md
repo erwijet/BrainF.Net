@@ -1,4 +1,4 @@
-# BrainF is a C# library for the BrainF--k
+# BrainF is a C# library for the BrainF--k language.
 ## Except that a special Command, the tilde, was added as a valid command.
 
 | Command 	| What it does                                                                                                                	|
@@ -16,3 +16,13 @@
 Go [here](https://en.wikipedia.org/wiki/Brainfuck) to learn more.
 
 Go [here](https://esolangs.org/wiki/Brainfuck) for examples and an in-depth understanding of how the language works.
+
+To download this magical library, you could clone this repo and include *BrainF.csproj* in your project, then add a project refrence. 
+Or, you could just download the .dll file from the binaries folder of this repo. To download that file, you can just click [here] and save yourself a couple seconds of file hunting, or you *could* go file hunting, if youre into that I guess.
+
+Oh, and also if you want some MD5 checksum hashes or whatever, here they are:
+
+| File | Hash                                      |
+| ---- | ----------------------------------------- |
+| BrainF.csproj | 3E5F2DC53FEB21C0BB2CF3BDF1EAFCC0 |
+| BrainF.dll    | 2228CC2DE5A32DEA181A1D4FF3ACC3C1 |
