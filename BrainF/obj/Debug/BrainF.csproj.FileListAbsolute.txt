@@ -3,3 +3,8 @@ C:\Users\Tyler\Documents\Projects\BrainF\BrainF\bin\Debug\BrainF.pdb
 C:\Users\Tyler\Documents\Projects\BrainF\BrainF\obj\Debug\BrainF.dll
 C:\Users\Tyler\Documents\Projects\BrainF\BrainF\obj\Debug\BrainF.pdb
 C:\Users\Tyler\Documents\Projects\BrainF\BrainF\obj\Debug\BrainF.csprojResolveAssemblyReference.cache
+C:\Users\Tyler\Desktop\BrainF\BrainF\BrainF\bin\Debug\BrainF.dll
+C:\Users\Tyler\Desktop\BrainF\BrainF\BrainF\bin\Debug\BrainF.pdb
+C:\Users\Tyler\Desktop\BrainF\BrainF\BrainF\obj\Debug\BrainF.csprojResolveAssemblyReference.cache
+C:\Users\Tyler\Desktop\BrainF\BrainF\BrainF\obj\Debug\BrainF.dll
+C:\Users\Tyler\Desktop\BrainF\BrainF\BrainF\obj\Debug\BrainF.pdb

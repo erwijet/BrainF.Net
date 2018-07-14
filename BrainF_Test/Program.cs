@@ -9,22 +9,18 @@ namespace BrainF_Test
 	class MainClass
 	{
 		public static void Main (string[] args) {
-            string[] input = new string[] {
-                "~ ~~~~~~~~~~",
-                ">++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++.",
-                ">,5"
-            };
-
-            Interpreter i = new Interpreter(new Hub());
-            ErrorHandler eh = new ErrorHandler(i); ;
-            Parser p = new Parser();
-            eh.CheckForErrors(p, input);
-            if (!eh.ErrorsFound)
-            {
-                i.ExecuteSet(p.Run(input));
-                i.log("\n[PROGRAM EXIT]");
+            string[] input = System.IO.File.ReadAllLines("script.bf");          // Load Script.bf
+                                               
+            Interpreter i = new Interpreter(new Hub());                         // Declare Interpreter with a default Hub
+            ErrorHandler eh = new ErrorHandler(i);                              // Declare an ErrorHanlder linked to the Interpreter                
+            Parser p = new Parser();                                            // Declare a new Parser
+            eh.CheckForErrors(p, input);                                        // Check for errors using the Parser to break the text code down into functions and pipe the output though Interpreter.Log
+            if (!eh.ErrorsFound)                                                // If no errors were found, continue
+            {                                  
+                i.ExecuteSet(p.Run(input));                                     // Use the parser to convert the text into a Command Set Matrix, the use the Interpreter's Hub to execute a function for each command found
+                i.log("\n[PROGRAM EXIT]");                                      // [PROGRAM EXIT]
             }
-            Console.ReadLine();
+            Console.ReadLine();                                                 // Press <enter> to exit
 		}
 	}
 }
