@@ -36,6 +36,6 @@ Oh, and also if you want some MD5 checksum hashes or whatever, here they are:
 
 | Algorithm | Hash                                                             |
 |:---------:| ---------------------------------------------------------------- |
-|  SHA-1    | B3E825E13780EB43D140837E7D34B420BF8A6C9C                         |
-|  SHA-256  | 38697BBB689DD19FAD0934688B66CB66423C6479A535BBBC031843BA8ABF4DDB |
-|  MD5      | 2228CC2DE5A32DEA181A1D4FF3ACC3C1                                 |
+|  SHA-256  | 9A58FAFADD46166F60B97113EE7B1E6EA005E5A082AD80C6CB26C7164B27BF4E |
+|  SHA-1    | 6A9B0A00CBBDFBF25222AFB64CD2C16003B7493D                         |
+|  MD5      | 3E5F2DC53FEB21C0BB2CF3BDF1EAFCC0 v                               |
