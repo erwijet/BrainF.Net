@@ -20,17 +20,18 @@ Go [here](https://esolangs.org/wiki/Brainfuck) for examples and an in-depth unde
 To download this magical library, you could clone this repo and include *BrainF.csproj* in your project, then add a project refrence. 
 Or, you could just download the .dll file from the binaries folder of this repo. To download that file, you can just click [here](https://github.com/erwijet/BrainF/raw/master/BrainF/bin/Debug/BrainF.dll) and save yourself a couple seconds of file hunting, or you *could* go file hunting, if youre into that I guess.
 
+----
+
 Oh, and also if you want some MD5 checksum hashes or whatever, here they are:
 
 #### *BrainF.dll*
 
 | Algorithm | Hash                                                             |
 |:---------:| ---------------------------------------------------------------- |
-|  SHA-1    | B3E825E13780EB43D140837E7D34B420BF8A6C9C                         |
 |  SHA-256  | 38697BBB689DD19FAD0934688B66CB66423C6479A535BBBC031843BA8ABF4DDB |
+|  SHA-1    | B3E825E13780EB43D140837E7D34B420BF8A6C9C                         |
 |  MD5      | 2228CC2DE5A32DEA181A1D4FF3ACC3C1                                 |
 
-----
 #### *BrainF.dll*
 
 | Algorithm | Hash                                                             |
