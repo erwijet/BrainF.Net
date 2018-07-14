@@ -2,6 +2,8 @@
 
 >...[R]egardless of the programming language being used, the functionality, logic, and efficiency of the language are always paramount — unless, of course, you’re talking about Brainf*ck, an esoteric programming language that champions purposefully overcomplicated code
 
+## What is it?
+
 | Command 	| What it does                                                                                                                	|
 |---------	|-----------------------------------------------------------------------------------------------------------------------------	|
 | ~ 	| Adds one empty cell to the memory array                                                                                     	|
@@ -16,6 +18,10 @@
 
 Go [here](https://en.wikipedia.org/wiki/Brainfuck) to learn more.\
 Go [here](https://esolangs.org/wiki/Brainfuck) for examples and an in-depth understanding of how the language works.
+
+---
+
+## Downloading
 
 To download this magical library, you could clone this repo and include *BrainF.csproj* in your project, then add a project refrence. Or, you could just download the .dll file from the binaries folder of this repo. To download that file, you can just click [here](https://github.com/erwijet/BrainF/raw/master/BrainF/bin/Debug/BrainF.dll) and save yourself a couple seconds of file hunting, or you *could* go file hunting, if youre into that I guess.
 
