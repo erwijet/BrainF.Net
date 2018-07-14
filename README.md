@@ -4,9 +4,11 @@
 
 ## What is it?
 
+BrainF.Net provides a flexable library in .NET what allows for error detection and execution of the esoteric Brainf*ck  
+
 | Command 	| What it does                                                                                                                	|
 |---------	|-----------------------------------------------------------------------------------------------------------------------------	|
-| ~ 	| Adds one empty cell to the memory array                                                                                     	|
+|    ~ 	    | Adds one empty cell to the memory array                                                                                     	|
 |    >    	| Moves the memory array pointer one to the right                                                                             	|
 |    <    	| Moves the memory array pointer one to the left                                                                              	|
 |    +    	| Adds one to the cell at the memory pointer                                                                                  	|
@@ -38,8 +40,8 @@ Oh, and also if you want some MD5 checksum hashes or whatever, here they are:
 
 #### *BrainF.csproj*
 
-| Algorithm | Hash                                                             |
-|:---------:| ---------------------------------------------------------------- |
-|  SHA-256  | 9A58FAFADD46166F60B97113EE7B1E6EA005E5A082AD80C6CB26C7164B27BF4E |
-|  SHA-1    | 6A9B0A00CBBDFBF25222AFB64CD2C16003B7493D                         |
-|  MD5      | 3E5F2DC53FEB21C0BB2CF3BDF1EAFCC0                                 |
+| Algorithm | Hash                                                            |
+|:---------:| ----------------------------------------------------------------|
+|  SHA-256  | 9A58FAFADD46166F60B97113EE7B1E6EA005E5A082AD80C6CB26C7164B27BF4E|
+|  SHA-1    | 6A9B0A00CBBDFBF25222AFB64CD2C16003B7493D                        |
+|  MD5      | 3E5F2DC53FEB21C0BB2CF3BDF1EAFCC0                                |
