@@ -1,6 +1,6 @@
 # BrainF.Net is a c# library in .NET 4.5 
 
->...[R]egardless of the programming language being used, the functionality, logic, and efficiency of the language are always paramount — unless, of course, you’re talking about Brainfuck, an esoteric programming language that champions purposefully overcomplicated code
+>...[R]egardless of the programming language being used, the functionality, logic, and efficiency of the language are always paramount — unless, of course, you’re talking about Brainf*ck, an esoteric programming language that champions purposefully overcomplicated code
 
 | Command 	| What it does                                                                                                                	|
 |---------	|-----------------------------------------------------------------------------------------------------------------------------	|
