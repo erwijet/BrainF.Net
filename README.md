@@ -22,9 +22,19 @@ Or, you could just download the .dll file from the binaries folder of this repo.
 
 Oh, and also if you want some MD5 checksum hashes or whatever, here they are:
 
-*BrainF.dll*
+#### *BrainF.dll*
 
-| Algorithm | Hash                                      |
-|:---------:| ----------------------------------------- |
-|  hi | 3E5F2DC53FEB21C0BB2CF3BDF1EAFCC0 |
-| BrainF.dll    | 2228CC2DE5A32DEA181A1D4FF3ACC3C1 |
+| Algorithm | Hash                                                             |
+|:---------:| ---------------------------------------------------------------- |
+|  SHA-1    | B3E825E13780EB43D140837E7D34B420BF8A6C9C                         |
+|  SHA-256  | 38697BBB689DD19FAD0934688B66CB66423C6479A535BBBC031843BA8ABF4DDB |
+|  MD5      | 2228CC2DE5A32DEA181A1D4FF3ACC3C1                                 |
+
+----
+#### *BrainF.dll*
+
+| Algorithm | Hash                                                             |
+|:---------:| ---------------------------------------------------------------- |
+|  SHA-1    | B3E825E13780EB43D140837E7D34B420BF8A6C9C                         |
+|  SHA-256  | 38697BBB689DD19FAD0934688B66CB66423C6479A535BBBC031843BA8ABF4DDB |
+|  MD5      | 2228CC2DE5A32DEA181A1D4FF3ACC3C1                                 |
