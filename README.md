@@ -13,8 +13,7 @@
 |    .    	| Print a letter to the console where the ASCII value of the letter is the value at the cell at the memory pointer            	|
 |    ,    	| Read one letter and save the ASCII value of that letter to the cell at the memory pointer                                   	|
 
-Go [here](https://en.wikipedia.org/wiki/Brainfuck) to learn more.
-
+Go [here](https://en.wikipedia.org/wiki/Brainfuck) to learn more.\
 Go [here](https://esolangs.org/wiki/Brainfuck) for examples and an in-depth understanding of how the language works.
 
 To download this magical library, you could clone this repo and include *BrainF.csproj* in your project, then add a project refrence. 
