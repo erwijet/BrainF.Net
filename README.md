@@ -4,7 +4,7 @@
 
 ## What is it?
 
-BrainF.Net provides a flexable library in .NET what allows for error detection and execution of the esoteric Brainf*ck  
+BrainF.Net provides a flexable library in .NET which allows for error detection and execution of the esoteric Brainf-ck language. 
 
 | Command 	| What it does                                                                                                                	|
 |---------	|-----------------------------------------------------------------------------------------------------------------------------	|
