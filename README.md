@@ -32,11 +32,11 @@ Oh, and also if you want some MD5 checksum hashes or whatever, here they are:
 
 #### *BrainF.dll*
 
-| Algorithm | Hash                                                             |
-|:---------:| ---------------------------------------------------------------- |
-|  SHA-256  | 38697BBB689DD19FAD0934688B66CB66423C6479A535BBBC031843BA8ABF4DDB |
-|  SHA-1    | B3E825E13780EB43D140837E7D34B420BF8A6C9C                         |
-|  MD5      | 2228CC2DE5A32DEA181A1D4FF3ACC3C1                                 |
+| Algorithm | Hash                                                            |
+|:---------:| ----------------------------------------------------------------|
+|  SHA-256  | 38697BBB689DD19FAD0934688B66CB66423C6479A535BBBC031843BA8ABF4DDB|
+|  SHA-1    | B3E825E13780EB43D140837E7D34B420BF8A6C9C                        |
+|  MD5      | 2228CC2DE5A32DEA181A1D4FF3ACC3C1                                |
 
 #### *BrainF.csproj*
 
