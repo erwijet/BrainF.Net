@@ -34,9 +34,9 @@ Oh, and also if you want some MD5 checksum hashes or whatever, here they are:
 
 | Algorithm |              Hash                                                |
 |:---------:|:----------------------------------------------------------------:|
-|  SHA-256  | 38697BBB689DD19FAD0934688B66CB66423C6479A535BBBC031843BA8ABF4DDB |
-|  SHA-1    | B3E825E13780EB43D140837E7D34B420BF8A6C9C                         |
-|  MD5      | 2228CC2DE5A32DEA181A1D4FF3ACC3C1                                 |
+|  SHA-256  | 4AF7C52AEF6DE92205CEA32EC387C1B3C9EC071D1A92D454BA12C538BDCA7190 |
+|  SHA-1    | 3661A4EEE7FA88AA976E08E434890B44521A4D73                         |
+|  MD5      | EAD6BCDF62AF47B7C97D82783668078F1                                 |
 
 #### *BrainF.csproj*
 
