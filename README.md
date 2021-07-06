@@ -2,9 +2,6 @@
 
 >Regardless of the programming language being used, the functionality, logic, and efficiency of the language are always paramount — unless, of course, you’re talking about Brainf*ck, an esoteric programming language that champions purposefully overcomplicated code
 
-**Hey There! If you're swinging by from esolangs or anywhere else, feel free to send a message about what you think of this project!**
-**It hasn't been updated in a while, but I am still paying attention to this github (as of today, August 13, 2019). You can always submit an issue, or send me an email at holewinskit@westosha.k12.wi.us**
-
 ## What is it?
 
 BrainF.Net provides a flexable library in .NET which allows for error detection and execution of the esoteric Brainf-ck language. 
